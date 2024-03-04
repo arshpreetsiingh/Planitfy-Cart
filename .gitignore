@@ -1,0 +1,6 @@
+node_modules/**/*
+.expo/*
+android/**/*
+#config file
+config.js
+*.package-lock.json
